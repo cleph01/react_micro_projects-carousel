@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_micro_projects-carousel/static/css/main.5119ed6b.css",
+    "main.js": "/react_micro_projects-carousel/static/js/main.20d2ddec.js",
+    "static/media/example3.svg": "/react_micro_projects-carousel/static/media/example3.dd4291369dabb7de2054d393af957f8a.svg",
+    "static/media/example1.svg": "/react_micro_projects-carousel/static/media/example1.af27f24ea891ff5f095306337d0a15db.svg",
+    "static/media/example2.svg": "/react_micro_projects-carousel/static/media/example2.3b04c608878564e8cbdedca19ddd54d9.svg",
+    "index.html": "/react_micro_projects-carousel/index.html",
+    "main.5119ed6b.css.map": "/react_micro_projects-carousel/static/css/main.5119ed6b.css.map",
+    "main.20d2ddec.js.map": "/react_micro_projects-carousel/static/js/main.20d2ddec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5119ed6b.css",
+    "static/js/main.20d2ddec.js"
+  ]
+}
